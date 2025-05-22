@@ -4,5 +4,5 @@ st.title("DitoOoOo")
 st.write(
     "Ditoodimariii adaa dito jangan larii"
 )
-st.image("IMG20250522WA0001.jpg", wi=200)
+st.image("IMG_20250217_113238_1.jpg, width=200)
 
